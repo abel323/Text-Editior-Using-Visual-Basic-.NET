@@ -1,0 +1,23 @@
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\bin\Debug\My Text Editor.exe.config
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\bin\Debug\My Text Editor.exe
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\bin\Debug\My Text Editor.pdb
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\bin\Debug\My Text Editor.xml
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\obj\Debug\My Text Editor.vbprojAssemblyReference.cache
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\obj\Debug\My_Text_Editor.frmEdtior.resources
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\obj\Debug\My_Text_Editor.Resources.resources
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\obj\Debug\My Text Editor.vbproj.GenerateResource.cache
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\obj\Debug\My Text Editor.exe
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\obj\Debug\My Text Editor.xml
+C:\Users\Abel\source\repos\My Text Editor\My Text Editor\obj\Debug\My Text Editor.pdb
+D:\Visual Studio Project\My Text Editor\My Text Editor\bin\Debug\My Text Editor.exe.config
+D:\Visual Studio Project\My Text Editor\My Text Editor\bin\Debug\My Text Editor.exe
+D:\Visual Studio Project\My Text Editor\My Text Editor\bin\Debug\My Text Editor.pdb
+D:\Visual Studio Project\My Text Editor\My Text Editor\bin\Debug\My Text Editor.xml
+D:\Visual Studio Project\My Text Editor\My Text Editor\obj\Debug\My Text Editor.vbprojAssemblyReference.cache
+D:\Visual Studio Project\My Text Editor\My Text Editor\obj\Debug\My_Text_Editor.frmEdtior.resources
+D:\Visual Studio Project\My Text Editor\My Text Editor\obj\Debug\My_Text_Editor.Resources.resources
+D:\Visual Studio Project\My Text Editor\My Text Editor\obj\Debug\My Text Editor.vbproj.GenerateResource.cache
+D:\Visual Studio Project\My Text Editor\My Text Editor\obj\Debug\My Text Editor.exe
+D:\Visual Studio Project\My Text Editor\My Text Editor\obj\Debug\My Text Editor.xml
+D:\Visual Studio Project\My Text Editor\My Text Editor\obj\Debug\My Text Editor.pdb
+D:\Visual Studio Project\My Text Editor\My Text Editor\obj\Debug\My_Text_Editor.frmMaths.resources
